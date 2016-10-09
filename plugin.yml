@@ -1,0 +1,14 @@
+main: CustomRecipe\Main
+api: 1.13.0
+name: CustomRecipe
+author: korado531m7
+version: 1.0.0
+description: Make Custom Recipe for Your PocketMine Server!
+commands:
+  cr:
+    description: CustomRecipe Control Command
+    permission: command.customrecipe
+permissions:
+  command.customrecipe:
+    default: op
+    description: "Allow use of CustomRecipe command"

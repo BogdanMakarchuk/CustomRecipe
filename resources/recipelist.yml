@@ -1,0 +1,31 @@
+---
+recipe:
+- crafttype: "BigShapedRecipe"
+  result-id: 276
+  result-damage: 0
+  result-amount: 1
+  result-name: §lkorado531m7 Sword
+  placement-1: " A "
+  placement-2: " A "
+  placement-3: " AA"
+  placeword-1: "A"
+  placeid-1: 5
+  placedamage-1: 0
+- crafttype: "BigShapedRecipe"
+  result-id: 378
+  result-damage: 0
+  result-amount: 1
+  result-name: Magical Ball
+  placement-1: "ACA"
+  placement-2: "ACA"
+  placement-3: "BBB"
+  placeword-1: "A"
+  placeid-1: 384
+  placedamage-1: 0
+  placeword-2: "B"
+  placeid-2: 369
+  placedamage-2: 0
+  placeword-3: "C"
+  placeid-3: 280
+  placedamage-3: 0
+...
